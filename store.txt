@@ -1,0 +1,2 @@
+Adobe Premiere,2.2,202,200.000000,
+Adobe Photoshop,2.3,20,200.000000,
